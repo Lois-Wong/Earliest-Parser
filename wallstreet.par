@@ -1,0 +1,125 @@
+(base) loiswong@Loiss-MBP hw-parse % ./parse2.py wallstreet.gr wallstreet.sen
+'John is happy .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (7.899522842393366 NP-PRD
+
+      (5.489986014926172 NPR
+
+        (0.9007074891443955 NNP
+
+          (8.090004221593599 John
+)))))tree weight:22.38022056805753
+'The very biggest companies are not likely to go under .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (7.899522842393366 NP-PRD
+
+      (8.900211973068465 DT
+
+        (6.860609092396608 The
+))))tree weight:23.66034390785844
+'The market is wondering what General Motors has done .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (7.899522842393366 NP-PRD
+
+      (8.900211973068465 DT
+
+        (6.860609092396608 The
+))))tree weight:23.66034390785844
+'In recent years , pay surged as demand rose while workers left for easier jobs .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (13.203648114760975 ADVP-PRD
+
+      (4.910805606408233 IN
+
+        (9.940046723248479 In
+))))tree weight:28.054500444417684
+'caught off guard , Ford Motor Co. had no choice except to follow suit with financing deals .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (9.079819527908116 ADJP-PRD
+
+      (6.067188943137935 VBN
+
+        (8.99714052869737 caught
+))))tree weight:24.14414899974342
+'data show that pay was flat for the third consecutive quarter after a rash of 4 % to 5 % annualized increases .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (9.079819527908116 ADJP-PRD
+
+      (8.307230024011188 NN
+
+        (12.898145567786724 data
+))))tree weight:30.285195119706025
+
+'running the combined companies , projected to have nearly 22 million subscribers by the time the deal is slated to close in a year , is likely to pose extraordinary management questions , according to Wall Street analysts .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (9.079819527908116 ADJP-PRD
+
+      (7.767290131023004 VBG
+
+        (7.218396885009369 running
+))))tree weight:24.065506543940486
+
+'a senior intelligence official said the administration considered how strongly it was criticized for issuing a similar less than specific warning on Oct. 11 , then decided the information was too serious to keep under cover .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (9.079819527908116 ADJP-PRD
+
+      (8.307230024011188 NN
+
+        (13.203648114760975 a
+))))tree weight:30.590697666680278
+
+'`` It 's very real , otherwise we would n't be doing it , '' this official said .' is accepted by wallstreet.gr
+
+(0 ROOT
+
+  (-0.0 S
+
+    (10.700347388612988 PUNC``
+
+      (0.022405007989445832 ``
+))
+    (10.700347388612988 NP
+
+      (4.0304895604332645 PRP
+
+        (5.169965397469004 It
+)))
+    (10.700347388612988 VP
+
+      (5.648335490910986 VBZ
+
+        (3.9123905204945224 's
+))))tree weight:50.88462814313618
+(base) loiswong@Loiss-MBP hw-parse % 
