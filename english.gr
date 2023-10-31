@@ -1,0 +1,98 @@
+1	S	NP VP
+0.333	ROOT	S .
+0.333	ROOT	S !
+0.333	ROOT	VP !
+0.0714	VP	V
+0.0714	VP	V NP
+0.357	VP	V VP
+0.0714	VP	V NP VP
+0.0714	VP	V CP
+0.0714	VP	V N
+0.0714	VP	V Adj
+1	CP	that S
+0.0769	NP	Det N
+0.0769	N	Adj N
+1	PP	P NP
+0.0714	VP	VP PP
+0.0769	N	N PP
+0.0714	VP	Modal VP
+0.125	Modal	will
+0.125	Modal	would
+0.125	Modal	should
+0.125	Modal	could
+0.125	Modal	can
+0.125	Modal	might
+0.125	Modal	may
+0.125	Modal	must
+0.0588	V	V -ed
+0.0294	V	V -ing
+0.0294	V	V -s
+0.0294	V	V -0
+0.0294	V	to V
+0.0588	V	have
+0.0588	V	had
+0.0294	V	having
+0.0294	V	has
+0.0294	V	be
+0.0294	V	was
+0.0294	V	were
+0.0294	V	been
+0.0294	V	being
+0.0294	V	is
+0.0294	V	are
+0.0294	V	go
+0.0294	V	sleep
+0.0294	V	kiss
+0.0294	V	love
+0.0294	V	spoon
+0.0588	V	eat
+0.0882	V	want
+0.0294	V	say
+0.0588	V	understand
+0.0588	V	entice
+0.0769	NP	Papa
+0.0769	NP	Joe
+0.0769	NP	Jill
+0.0769	NP	her
+0.0769	NP	she
+0.0769	NP	him
+0.0769	NP	he
+0.154	NP	it
+0.0769	NP	they
+0.0769	NP	them
+0.0769	N	N -s
+0.0769	N	bonbon
+0.0769	N	spoon
+0.0769	N	president
+0.0769	N	pickle
+0.0769	N	sandwich
+0.0769	N	floor
+0.0769	N	chief of staff
+0.0769	N	chiefs of staff
+0.0769	N	man
+0.0769	N	woman
+0.0588	Det	a
+0.0588	Det	all
+0.0588	Det	every
+0.0588	Det	each
+0.0588	Det	two
+0.118	Det	some
+0.118	Det	the
+0.118	Det	his
+0.118	Det	her
+0.118	Det	its
+0.118	Det	their
+0.143	Adj	fine
+0.143	Adj	blue
+0.143	Adj	delicious
+0.143	Adj	perplexed
+0.143	Adj	pickled
+0.143	Adj	very Adj
+0.2	P	with
+0.2	P	on
+0.2	P	onto
+0.2	P	under
+0.2	P	in
+0.143	Adj	Adj and Adj
+0.0769	NP	NP and NP
+0.0714	VP	VP and VP
